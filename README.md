@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I recognize we will pay more attention when we have different leadership.</h3 quote>
+<h3 quote align='center'>But I think bands that rolled in with a big attitude, like they were some big deal, I just found that very strange.</h3 quote>
 
 ---
 
