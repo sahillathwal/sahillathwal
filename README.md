@@ -56,6 +56,6 @@ These are some of the major technologies that I use or have worked on in the pas
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Some Random Data!</h3 quote>
+<h3 quote align='center'>I recognize we will pay more attention when we have different leadership.</h3 quote>
 
 ---
