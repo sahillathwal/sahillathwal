@@ -10,10 +10,8 @@ API_KEY = os.environ.get('api_key')
 category = ['inspirational','attitude','dreams',
 			'experience','intelligence',
 			'leadership','success']
-api_url = 'https://api.api-ninjas.com/v1/\
-quotes?category={}'.format(category[random.randint(0,6)])
-response = requests.get(api_url, headers=
-						{'X-Api-Key': API_KEY})
+api_url = 'https://api.api-ninjas.com/v1/\quotes?category={}'.format(category[random.randint(0,6)])
+response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
 
 if response.status_code == requests.codes.ok:
 	quote=response.text
@@ -37,15 +35,11 @@ closingTag = "</h3 quote"
 startIndex = readmeText.index(openingTag)
 endIndex = readmeText.index(closingTag)
 
-quoteMarkdown = "<h3 quote align='center'>"
-				+ mainQuote + "." + "</h3 quote>"
+quoteMarkdown = "<h3 quote align='center'>" + mainQuote + "." + "</h3 quote>"
 
-content = readmeText[startIndex +
-						len(openingTag) : endIndex]
+content = readmeText[startIndex + len(openingTag) : endIndex]
 newContent = (
-	readmeText[:startIndex]
-	+ quoteMarkdown
-	+ readmeText[endIndex + len(closingTag) + 1 :]
+	readmeText[:startIndex] + quoteMarkdown + readmeText[endIndex + len(closingTag) + 1 :]
 )
 
 # Writing new Quote into readme file
