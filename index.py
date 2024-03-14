@@ -3,24 +3,25 @@ import json
 import requests
 import os
 
-# Category List for Quotes
-category = ['inspirational', 'attitude', 'dreams',
-			'experience', 'intelligence', 'leadership', 'success']
-api_url = 'https://api.api-ninjas.com/v1/\
-quotes?category={}'.format(category[random.randint(0, 6)])
+# Getting API key from environment variable
+API_KEY = os.environ.get('api_key')
 
-# Enter your API Key Here
+# Getting a random quote from the API
+category = ['inspirational','attitude','dreams',
+			'experience','intelligence',
+			'leadership','success']
+api_url = 'https://api.api-ninjas.com/v1/\
+quotes?category={}'.format(category[random.randint(0,6)])
 response = requests.get(api_url, headers=
-						{'X-Api-Key': 'tSr006WeNC+nQNxQ3+YMvw==L9aQ1415loq5B0WZ'})
+						{'X-Api-Key': API_KEY})
 
 if response.status_code == requests.codes.ok:
-	quote = response.text
-	# Load the response into a json object
+	quote=response.text
 	quotes = json.loads(quote)
-	q = quotes[0]['quote']
-	# In case of receiving multiple quotes,
-	# we will pick the first one
-	mainQuote = q.split('.')[0]
+	q=quotes[0]['quote']
+	# In case of receiving multiple quotes, 
+	# we will take the first one
+	mainQuote=q.split('.')[0]
 else:
 	print("Error:", response.status_code, response.text)
 
@@ -36,17 +37,17 @@ closingTag = "</h3 quote"
 startIndex = readmeText.index(openingTag)
 endIndex = readmeText.index(closingTag)
 
-quoteMarkdown = "<h3 quote align='center'>" + mainQuote + "." + "</h3 quote>"
+quoteMarkdown = "<h3 quote align='center'>"
+				+ mainQuote + "." + "</h3 quote>"
 
 content = readmeText[startIndex +
-					len(openingTag): endIndex]
+						len(openingTag) : endIndex]
 newContent = (
 	readmeText[:startIndex]
 	+ quoteMarkdown
-	+ readmeText[endIndex + len(closingTag) + 1:]
+	+ readmeText[endIndex + len(closingTag) + 1 :]
 )
 
 # Writing new Quote into readme file
-readme_file = open("README.md",
-				mode="w", encoding="utf8")
+readme_file = open("README.md", mode="w", encoding="utf8")
 readme_file.write(newContent)
