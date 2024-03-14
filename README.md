@@ -1,6 +1,15 @@
 
 <h1>Hey There, I'm Sahil <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+### Here is a Quote for you, to make your day better
+
+---
+
+<h2 align='center'>Quote of the Moment</h2>
+<h3 quote align='center'>I recognize we will pay more attention when we have different leadership.</h3 quote>
+
+---
+
 I'm a **Computer Science Student** at Alliance Uinversity Bengaluru. My day to day work revolves around learning topics which help me with **Embedded Systems**. I'm open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
@@ -39,23 +48,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=sahillathwal&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/22449505/sahillathwal"><img src="https://github-readme-stackoverflow.vercel.app/?userID=22449505&theme=dark" height="250"></a>
 |--|--|
 
 <br>
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/sahil-lathwal/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.x.com/sahillathwal566/"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40"></a>
 |--|--|
-
-### Here is a random meme for you, to make your day better
-
-## Dynamic Quotes on GitHub Readme:
-
----
-
-<h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I recognize we will pay more attention when we have different leadership.</h3 quote>
-
----
