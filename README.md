@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Constant success shows us but one side of the world; adversity brings out the reverse of the picture.</h3 quote>
+<h3 quote align='center'>Intelligence is a moral category.</h3 quote>
 
 ---
 
