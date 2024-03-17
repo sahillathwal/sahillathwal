@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>He who never fell never climbed.</h3 quote>
+<h3 quote align='center'>We can't drive our SUVs and eat as much as we want and keep our homes on 72 degrees at all times.</h3 quote>
 
 ---
 
