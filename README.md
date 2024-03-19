@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm a big advocate of financial intelligence.</h3 quote>
+<h3 quote align='center'>We have seen too much success to have become obsessed with failure.</h3 quote>
 
 ---
 
