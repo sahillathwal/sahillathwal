@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>When a woman puts on a heel, she has a different posture, a different attitude.</h3 quote>
+<h3 quote align='center'>It is the responsibility of leadership to provide opportunity, and the responsibility of individuals to contribute.</h3 quote>
 
 ---
 
