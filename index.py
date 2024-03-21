@@ -7,8 +7,8 @@ import os
 API_KEY = os.environ.get('api_key')
 
 # Getting a random quote from the API
-category = ['inspirational','attitude','dreams',
-			'experience','intelligence',
+category = ['inspirational','dreams',
+			'experience',
 			'leadership','success']
 api_url = 'https://api.api-ninjas.com/v1/quotes?category={}'.format(category[random.randint(0,6)])
 response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
