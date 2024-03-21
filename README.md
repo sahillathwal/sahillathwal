@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Be a yardstick of quality.</h3 quote>
+<h3 quote align='center'>When a woman puts on a heel, she has a different posture, a different attitude.</h3 quote>
 
 ---
 
