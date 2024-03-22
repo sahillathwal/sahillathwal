@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>People's real hopes and dreams can be distorted and misdirected and packaged until you're not sure what you really want or what you even really need.</h3 quote>
+<h3 quote align='center'>The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you're free.</h3 quote>
 
 ---
 
