@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Ideas shape the course of history.</h3 quote>
+<h3 quote align='center'>Dreams can come true.</h3 quote>
 
 ---
 
