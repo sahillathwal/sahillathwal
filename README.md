@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Just as we accumulate memories of facts by integrating them into a network, we accumulate life experiences by integrating them into a web of other chronological memories.</h3 quote>
+<h3 quote align='center'>My attitude is never to be satisfied, never enough, never.</h3 quote>
 
 ---
 
