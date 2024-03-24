@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams can come true.</h3 quote>
+<h3 quote align='center'>When we are motivated by goals that have deep meaning, by dreams that need completion, by pure love that needs expressing, then we truly live.</h3 quote>
 
 ---
 
