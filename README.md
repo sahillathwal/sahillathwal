@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm a journeyman actor, and I don't ever want to forget that.</h3 quote>
+<h3 quote align='center'>I took a gamble to exercise leadership without losing my feminine nature.</h3 quote>
 
 ---
 
