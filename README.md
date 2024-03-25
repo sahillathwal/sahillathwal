@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I took a gamble to exercise leadership without losing my feminine nature.</h3 quote>
+<h3 quote align='center'>Given that religious faith is an intrinsic element of human experience, it is best to approach and engage the subject with a sense of history and a critical sensibility.</h3 quote>
 
 ---
 
