@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Try not.</h3 quote>
+<h3 quote align='center'>It is by acts and not by ideas that people live.</h3 quote>
 
 ---
 
