@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Hope is some extraordinary spiritual grace that God gives us to control our fears, not to oust them.</h3 quote>
+<h3 quote align='center'>To my mind the election was stolen by George Bush and we have been suffering ever since under this man's leadership.</h3 quote>
 
 ---
 
