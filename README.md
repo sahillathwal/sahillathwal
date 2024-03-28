@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>That is what leadership is all about: staking your ground ahead of where opinion is and convincing people, not simply following the popular opinion of the moment.</h3 quote>
+<h3 quote align='center'>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.</h3 quote>
 
 ---
 
