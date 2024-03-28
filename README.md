@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>To my mind the election was stolen by George Bush and we have been suffering ever since under this man's leadership.</h3 quote>
+<h3 quote align='center'>That is what leadership is all about: staking your ground ahead of where opinion is and convincing people, not simply following the popular opinion of the moment.</h3 quote>
 
 ---
 
