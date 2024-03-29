@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The meaning I picked, the one that changed my life: Overcome fear, behold wonder.</h3 quote>
+<h3 quote align='center'>There is a time in the tides of men, Which, taken at its flood, leads on to success.</h3 quote>
 
 ---
 
