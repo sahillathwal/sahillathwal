@@ -55,5 +55,5 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/sahil-lathwal/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.x.com/sahillathwal566/"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/sahillathwal/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.x.com/sahillathwal566/"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40"></a>
 |--|--|
