@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>What is the conservative movement? It's pretty straightforward.</h3 quote>
+<h3 quote align='center'>Men must live and create.</h3 quote>
 
 ---
 
