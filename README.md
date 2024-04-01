@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Men must live and create.</h3 quote>
+<h3 quote align='center'>If we learn for each success, and each failure, and improve ourselves through this process, then, at the end, we will havefulfilled our potential and performed well.</h3 quote>
 
 ---
 
