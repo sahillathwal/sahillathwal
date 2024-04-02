@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Just what future the Designer of the universe has provided for the souls of men I do not know, I cannot prove.</h3 quote>
+<h3 quote align='center'>An athlete cannot run with money in his pockets.</h3 quote>
 
 ---
 
