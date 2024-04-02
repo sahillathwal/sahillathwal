@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>An athlete cannot run with money in his pockets.</h3 quote>
+<h3 quote align='center'>My ultimate aim is to make euthanasia a positive experience.</h3 quote>
 
 ---
 
