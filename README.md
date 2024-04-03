@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The very substance of the ambitious is merely the shadow of a dream.</h3 quote>
+<h3 quote align='center'>A good leader takes a little more than his share of the blame, a little less than his share of the credit.</h3 quote>
 
 ---
 
