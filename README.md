@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>My ultimate aim is to make euthanasia a positive experience.</h3 quote>
+<h3 quote align='center'>The very substance of the ambitious is merely the shadow of a dream.</h3 quote>
 
 ---
 
