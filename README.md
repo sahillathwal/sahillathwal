@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A life spent in constant labor is a life wasted, save a man be such a fool as to regard a fulsome obituary notice as ample reward.</h3 quote>
+<h3 quote align='center'>Sinn Fein has demonstrated the ability to play a leadership role as part of a popular movement towards peace, equality and justice.</h3 quote>
 
 ---
 
