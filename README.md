@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We live in a time where government is not a leadership thing, it's more a business that's out there and running riot, so I guess the people have to go out there and say stuff.</h3 quote>
+<h3 quote align='center'>Success is the child of audacity.</h3 quote>
 
 ---
 
