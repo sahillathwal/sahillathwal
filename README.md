@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Sinn Fein has demonstrated the ability to play a leadership role as part of a popular movement towards peace, equality and justice.</h3 quote>
+<h3 quote align='center'>We live in a time where government is not a leadership thing, it's more a business that's out there and running riot, so I guess the people have to go out there and say stuff.</h3 quote>
 
 ---
 
