@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success is the child of audacity.</h3 quote>
+<h3 quote align='center'>Dreams are true while they last, and do we not live in dreams? .</h3 quote>
 
 ---
 
