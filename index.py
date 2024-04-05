@@ -9,8 +9,8 @@ API_KEY = os.environ.get('api_key')
 # Getting a random quote from the API
 category = ['inspirational','dreams',
 			'experience',
-			'leadership','success']
-api_url = 'https://api.api-ninjas.com/v1/quotes?category={}'.format(category[random.randint(0,4)])
+			'success']
+api_url = 'https://api.api-ninjas.com/v1/quotes?category={}'.format(category[random.randint(0,3)])
 response = requests.get(api_url, headers={'X-Api-Key': API_KEY})
 
 if response.status_code == requests.codes.ok:
