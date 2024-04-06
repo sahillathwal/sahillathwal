@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Married or unmarried, young or old, poet or worker, you are still a dreamer, and will one time know, and feel, that your life is but a dream.</h3 quote>
+<h3 quote align='center'>The mind uses its faculty for creativity only when experience forces it to do so.</h3 quote>
 
 ---
 
