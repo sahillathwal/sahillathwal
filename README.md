@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The mind uses its faculty for creativity only when experience forces it to do so.</h3 quote>
+<h3 quote align='center'>You don't look out there for God, something in the sky, you look in you.</h3 quote>
 
 ---
 
