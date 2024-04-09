@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Succeeding is not really a life experience that does that much good.</h3 quote>
+<h3 quote align='center'>I am deliberate and afraid of nothing.</h3 quote>
 
 ---
 
