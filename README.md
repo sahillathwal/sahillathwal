@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You change your life by changing your heart.</h3 quote>
+<h3 quote align='center'>We do not really feel grateful toward those who make our dreams come true they ruin our dreams.</h3 quote>
 
 ---
 
