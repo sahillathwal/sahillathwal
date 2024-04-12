@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>When I was 27 years old, I organized legal aid clinics to help low-income seniors.</h3 quote>
+<h3 quote align='center'>Noble deeds that are concealed are most esteemed.</h3 quote>
 
 ---
 
