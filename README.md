@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success to me is having ten honeydew melons and only eating the top half of each one.</h3 quote>
+<h3 quote align='center'>We must believe in luck for how else can we explain the success of those we don't like?.</h3 quote>
 
 ---
 
