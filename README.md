@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Let us dream of tomorrow where we can truly love from the soul, and know love as the ultimate truth at the heart of all creation.</h3 quote>
+<h3 quote align='center'>I am so excited to let fans in on how important my relationship with my family is to me.</h3 quote>
 
 ---
 
