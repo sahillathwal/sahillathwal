@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I never ask a man what his business is, for it never interests me.</h3 quote>
+<h3 quote align='center'>I'd say it's been my biggest problem all my life.</h3 quote>
 
 ---
 
