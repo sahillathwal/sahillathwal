@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'd say it's been my biggest problem all my life.</h3 quote>
+<h3 quote align='center'>Success is the result of behavior that completely contradicts the usual expectations about the behavior of a successful person.</h3 quote>
 
 ---
 
