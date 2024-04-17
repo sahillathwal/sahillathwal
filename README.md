@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you're free.</h3 quote>
+<h3 quote align='center'>There is no use in your walking five miles to fish when you can depend on being just as unsuccessful near home.</h3 quote>
 
 ---
 
