@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Behind every successful man stands an amazed woman.</h3 quote>
+<h3 quote align='center'>If you sit in a position where decisions that you take would have a serious effect on people, you can't ignore a lot of experience around the world which says this drug has these negative effects.</h3 quote>
 
 ---
 
