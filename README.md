@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are people who never experience that, who remain closed until death, from fear of change.</h3 quote>
+<h3 quote align='center'>A man dies still if he has done nothing, as one who has done much.</h3 quote>
 
 ---
 
