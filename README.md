@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If you sit in a position where decisions that you take would have a serious effect on people, you can't ignore a lot of experience around the world which says this drug has these negative effects.</h3 quote>
+<h3 quote align='center'>There are people who never experience that, who remain closed until death, from fear of change.</h3 quote>
 
 ---
 
