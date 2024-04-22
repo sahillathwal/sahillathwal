@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Men will never establish any equality with which they can be contented.</h3 quote>
+<h3 quote align='center'>Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good.</h3 quote>
 
 ---
 
