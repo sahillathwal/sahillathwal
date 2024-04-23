@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Once I knew only darkness and stillness.</h3 quote>
+<h3 quote align='center'>It is not enough to succeed.</h3 quote>
 
 ---
 
