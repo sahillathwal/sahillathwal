@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Tears of joy are like the summer rain drops pierced by sunbeams.</h3 quote>
+<h3 quote align='center'>Thought is the wind, knowledge the sail, and mankind the vessel.</h3 quote>
 
 ---
 
