@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Thought is the wind, knowledge the sail, and mankind the vessel.</h3 quote>
+<h3 quote align='center'>How glorious a greeting the sun gives the mountains!.</h3 quote>
 
 ---
 
