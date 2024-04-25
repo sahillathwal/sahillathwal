@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>How glorious a greeting the sun gives the mountains!.</h3 quote>
+<h3 quote align='center'>Art is the imposing of a pattern on experience, and our aesthetic enjoyment is recognition of the pattern.</h3 quote>
 
 ---
 
