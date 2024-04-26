@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Actually, music gave me the support when I needed it.</h3 quote>
+<h3 quote align='center'>We are increasingly likely to find ourselves in places with background music.</h3 quote>
 
 ---
 
