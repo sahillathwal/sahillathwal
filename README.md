@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I had decided I wanted to write about food, and I knew the only way to do that is to speak with authority, which meant learning the language and knowing what that experience is like.</h3 quote>
+<h3 quote align='center'>From my experience, I think that every actor has to make sure that they're in charge of their own career somehow or other.</h3 quote>
 
 ---
 
