@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>From my experience, I think that every actor has to make sure that they're in charge of their own career somehow or other.</h3 quote>
+<h3 quote align='center'>I have a mess in my head sometimes, and there's something very satisfying about putting it into words.</h3 quote>
 
 ---
 
