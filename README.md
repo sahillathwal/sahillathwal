@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The secret of all victory lies in the organization of the non-obvious.</h3 quote>
+<h3 quote align='center'>A man dies still if he has done nothing, as one who has done much.</h3 quote>
 
 ---
 
