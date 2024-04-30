@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit.</h3 quote>
+<h3 quote align='center'>A place for everything, everything in its place.</h3 quote>
 
 ---
 
