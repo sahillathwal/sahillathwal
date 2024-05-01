@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Man errs as long as he strives.</h3 quote>
+<h3 quote align='center'>But I am delighted to be a Dodger, I grew up a Dodger fan and now my dreams have really come true.</h3 quote>
 
 ---
 
