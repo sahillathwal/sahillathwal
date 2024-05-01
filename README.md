@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams are like paper, they tear so easily.</h3 quote>
+<h3 quote align='center'>Man errs as long as he strives.</h3 quote>
 
 ---
 
