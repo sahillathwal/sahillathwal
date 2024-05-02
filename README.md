@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Pubs make you as drunk as they can as soon as they can, and turn nasty when they succeed.</h3 quote>
+<h3 quote align='center'>Grace is the beauty of form under the influence of freedom.</h3 quote>
 
 ---
 
