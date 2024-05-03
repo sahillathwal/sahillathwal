@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The single most important thing in a child's performance is the quality of the teacher.</h3 quote>
+<h3 quote align='center'>Nurture your minds with great thoughts.</h3 quote>
 
 ---
 
