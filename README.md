@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Nurture your minds with great thoughts.</h3 quote>
+<h3 quote align='center'>I was not born in a home where there were stereotypes.</h3 quote>
 
 ---
 
