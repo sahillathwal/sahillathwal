@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Yesterday we obeyed kings and bent our necks before emperors.</h3 quote>
+<h3 quote align='center'>Most new jobs won't come from our biggest employers.</h3 quote>
 
 ---
 
