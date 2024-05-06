@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Most new jobs won't come from our biggest employers.</h3 quote>
+<h3 quote align='center'>I grew up like a neglected weed - ignorant of liberty, having no experience of it.</h3 quote>
 
 ---
 
