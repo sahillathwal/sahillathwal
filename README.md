@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Most 'reality' shows aren't reality at all.</h3 quote>
+<h3 quote align='center'>What really matters is the name you succeed in imposing on the facts not the facts themselves.</h3 quote>
 
 ---
 
