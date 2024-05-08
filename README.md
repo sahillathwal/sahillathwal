@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are worlds of experience beyond the world of the aggressive man, beyond history, and beyond science.</h3 quote>
+<h3 quote align='center'>We can't help everyone, but everyone can help someone.</h3 quote>
 
 ---
 
