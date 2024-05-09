@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>No bird soars too high if he soars with his own wings.</h3 quote>
+<h3 quote align='center'>Most people would succeed in small things if they were not troubled with great ambitions.</h3 quote>
 
 ---
 
