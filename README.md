@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Most people would succeed in small things if they were not troubled with great ambitions.</h3 quote>
+<h3 quote align='center'>I was always a dreamer, in childhood especially.</h3 quote>
 
 ---
 
