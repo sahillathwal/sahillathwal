@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It does not do to dwell on dreams and forget to live.</h3 quote>
+<h3 quote align='center'>Great dreams of great dreamers are always transcended.</h3 quote>
 
 ---
 
