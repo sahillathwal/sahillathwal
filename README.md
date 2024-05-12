@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Great dreams of great dreamers are always transcended.</h3 quote>
+<h3 quote align='center'>Literature transmits incontrovertible condensed experience.</h3 quote>
 
 ---
 
