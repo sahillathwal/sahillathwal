@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success can be insured only by devising a defense against the contingency plan.</h3 quote>
+<h3 quote align='center'>When I was a kid, I wanted to be serious, like Daniel Day-Lewis.</h3 quote>
 
 ---
 
