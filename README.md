@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>For a gallant spirit there can never be defeat.</h3 quote>
+<h3 quote align='center'>I live with one foot in the sand and one in the snow.</h3 quote>
 
 ---
 
