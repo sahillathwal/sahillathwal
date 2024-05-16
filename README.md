@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Going to a party, for me, is as much a learning experience as, you know, sitting in a lecture.</h3 quote>
+<h3 quote align='center'>Tears of joy are like the summer rain drops pierced by sunbeams.</h3 quote>
 
 ---
 
