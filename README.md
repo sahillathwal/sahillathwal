@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Nothing is too high for the daring of mortals: we storm heaven itself in our folly.</h3 quote>
+<h3 quote align='center'>Seems like God don't see fit to give the black man nothing but dreams - but He did give us children to make them dreams seem worthwhile.</h3 quote>
 
 ---
 
