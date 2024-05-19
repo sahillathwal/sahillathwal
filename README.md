@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Seems like God don't see fit to give the black man nothing but dreams - but He did give us children to make them dreams seem worthwhile.</h3 quote>
+<h3 quote align='center'>Sometimes I get so bold and I'm so confident about what I'm doing that I actually try to be more of a dork because it's a really liberating feeling to experience what it's like to not care.</h3 quote>
 
 ---
 
