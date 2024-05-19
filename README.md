@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Sometimes I get so bold and I'm so confident about what I'm doing that I actually try to be more of a dork because it's a really liberating feeling to experience what it's like to not care.</h3 quote>
+<h3 quote align='center'>He who never fell never climbed.</h3 quote>
 
 ---
 
