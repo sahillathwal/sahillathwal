@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>My dreams for the future are simple: work, a happy, healthy family, a lovely long motorcycle ride, and continuing the struggle to awaken people to the need for serious human rights reform.</h3 quote>
+<h3 quote align='center'>If A equals success, then the formula is A equals X plus Y and Z, with X being work, Y play, and Z keeping your mouth shut.</h3 quote>
 
 ---
 
