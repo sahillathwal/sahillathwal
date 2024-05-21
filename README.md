@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If you started in New York you were dealing with the biggest guys in the world.</h3 quote>
+<h3 quote align='center'>I love working with kids, talking with them and listening to them.</h3 quote>
 
 ---
 
