@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>What we achieve inwardly will change outer reality.</h3 quote>
+<h3 quote align='center'>I'm not certain, but I have a little gypsy blood in me.</h3 quote>
 
 ---
 
