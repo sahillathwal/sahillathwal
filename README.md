@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm not certain, but I have a little gypsy blood in me.</h3 quote>
+<h3 quote align='center'>Without leaps of imagination, or dreaming, we lose the excitement of possibilities.</h3 quote>
 
 ---
 
