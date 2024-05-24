@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Ambition is a lust that is never quenched, but grows more inflamed and madder by enjoyment.</h3 quote>
+<h3 quote align='center'>The ninety and nine are with dreams, content but the hope of the world made new, is the hundredth man who is grimly bent on making those dreams come true.</h3 quote>
 
 ---
 
