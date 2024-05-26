@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>When you have really exhausted an experience you always reverence and love it.</h3 quote>
+<h3 quote align='center'>I heard my name associated with the Peter Pan syndrome more than once.</h3 quote>
 
 ---
 
