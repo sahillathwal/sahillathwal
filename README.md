@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Nothing makes one feel so strong as a call for help.</h3 quote>
+<h3 quote align='center'>When you have really exhausted an experience you always reverence and love it.</h3 quote>
 
 ---
 
