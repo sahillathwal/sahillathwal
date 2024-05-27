@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I heard my name associated with the Peter Pan syndrome more than once.</h3 quote>
+<h3 quote align='center'>Before everything else, getting ready is the secret of success.</h3 quote>
 
 ---
 
