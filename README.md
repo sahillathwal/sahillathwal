@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If you can't read, it's going to be hard to realize dreams.</h3 quote>
+<h3 quote align='center'>The best way to make your dreams come true is to wake up.</h3 quote>
 
 ---
 
