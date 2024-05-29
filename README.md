@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>So if I have two pieces of cake, do I have twice as good an experience as the first piece of cake? One of the things I've found in life is that the first piece of cake is the best.</h3 quote>
+<h3 quote align='center'>To me, the job of the artist is to provide a useful and intelligent vocabulary for the world to be able to articulate feelings they experience everyday, and otherwise wouldn't have the means to express in a meaningful and useful way.</h3 quote>
 
 ---
 
