@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The best way to make your dreams come true is to wake up.</h3 quote>
+<h3 quote align='center'>So if I have two pieces of cake, do I have twice as good an experience as the first piece of cake? One of the things I've found in life is that the first piece of cake is the best.</h3 quote>
 
 ---
 
