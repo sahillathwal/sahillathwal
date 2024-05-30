@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We see our customers as invited guests to a party, and we are the hosts.</h3 quote>
+<h3 quote align='center'>If it were not for hopes, the heart would break.</h3 quote>
 
 ---
 
