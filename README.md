@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If it were not for hopes, the heart would break.</h3 quote>
+<h3 quote align='center'>The only time you really live fully is from thirty to sixty.</h3 quote>
 
 ---
 
