@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Any film, or to me any creative endeavour, no matter who you're working with, is, in many cases, a wonderful experience.</h3 quote>
+<h3 quote align='center'>Past experience with fiscal austerity at home and overseas strongly suggests that it is best for the economy's long-run performance to restrain government spending rather than raise taxes.</h3 quote>
 
 ---
 
