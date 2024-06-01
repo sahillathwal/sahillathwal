@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Past experience with fiscal austerity at home and overseas strongly suggests that it is best for the economy's long-run performance to restrain government spending rather than raise taxes.</h3 quote>
+<h3 quote align='center'>When you go visiting countries, you start reading the history of the place and you start getting into the culture, and then you have to leave.</h3 quote>
 
 ---
 
