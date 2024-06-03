@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Someone's sitting in the shade today because someone planted a tree a long time ago.</h3 quote>
+<h3 quote align='center'>The most beautiful thing we can experience is the mysterious.</h3 quote>
 
 ---
 
