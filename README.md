@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Ambition often puts men upon doing the meanest offices: so climbing is performed in the same posture with creeping.</h3 quote>
+<h3 quote align='center'>Much can be inferred about a man from his mistress: in her one beholds his weaknesses and his dreams.</h3 quote>
 
 ---
 
