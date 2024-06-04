@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The most beautiful thing we can experience is the mysterious.</h3 quote>
+<h3 quote align='center'>Ambition often puts men upon doing the meanest offices: so climbing is performed in the same posture with creeping.</h3 quote>
 
 ---
 
