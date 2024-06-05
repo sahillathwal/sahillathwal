@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>All you need in this life is ignorance and confidence, and then Success is sure.</h3 quote>
+<h3 quote align='center'>Man tells his aspiration in his God but in his demon he shows his depth of experience.</h3 quote>
 
 ---
 
