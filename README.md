@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Much can be inferred about a man from his mistress: in her one beholds his weaknesses and his dreams.</h3 quote>
+<h3 quote align='center'>All you need in this life is ignorance and confidence, and then Success is sure.</h3 quote>
 
 ---
 
