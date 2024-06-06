@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>First must give place to last, because last must have his time to come; but last gives place to nothing, for there is not another to succeed.</h3 quote>
+<h3 quote align='center'>Observation more than books and experience more than persons, are the prime educators.</h3 quote>
 
 ---
 
