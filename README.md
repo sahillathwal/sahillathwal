@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Man tells his aspiration in his God but in his demon he shows his depth of experience.</h3 quote>
+<h3 quote align='center'>First must give place to last, because last must have his time to come; but last gives place to nothing, for there is not another to succeed.</h3 quote>
 
 ---
 
