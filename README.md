@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>What really matters is the name you succeed in imposing on the facts not the facts themselves.</h3 quote>
+<h3 quote align='center'>Try not to become a man of success but rather try to become a man of value.</h3 quote>
 
 ---
 
