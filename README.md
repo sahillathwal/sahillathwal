@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Sex without love is a meaningless experience, but as far as meaningless experiences go its pretty damn good.</h3 quote>
+<h3 quote align='center'>What we achieve inwardly will change outer reality.</h3 quote>
 
 ---
 
