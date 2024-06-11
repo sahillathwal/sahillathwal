@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>When I walk up on that shore in Florida, I want millions of those AARP sisters and brothers to look at me and say, 'I'm going to go write that novel I thought it was too late to do.</h3 quote>
+<h3 quote align='center'>Nothing makes one feel so strong as a call for help.</h3 quote>
 
 ---
 
