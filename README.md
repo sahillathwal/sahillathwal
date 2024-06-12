@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Nothing makes one feel so strong as a call for help.</h3 quote>
+<h3 quote align='center'>I don't want people to sit there and objectively watch the film.</h3 quote>
 
 ---
 
