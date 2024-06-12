@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I don't want people to sit there and objectively watch the film.</h3 quote>
+<h3 quote align='center'>God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.</h3 quote>
 
 ---
 
