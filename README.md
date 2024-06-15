@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The soul is everlasting, and its learning experience is lifetime after lifetime.</h3 quote>
+<h3 quote align='center'>In oneself lies the whole world and if you know how to look and learn, the door is there and the key is in your hand.</h3 quote>
 
 ---
 
