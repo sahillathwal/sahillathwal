@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I led the life of an intellectual up until a certain age.</h3 quote>
+<h3 quote align='center'>The soul is everlasting, and its learning experience is lifetime after lifetime.</h3 quote>
 
 ---
 
