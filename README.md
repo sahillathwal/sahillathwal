@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I want to find someone who's really into something like I'm really into something, so that I can support them and we can both cheer each other on.</h3 quote>
+<h3 quote align='center'>The only way to succeed is to make people hate you.</h3 quote>
 
 ---
 
