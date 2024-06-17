@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Rude contact with facts chased my visions and dreams quickly away, and in their stead I beheld the horrors, the corruption, the evils and hypocrisy of society, and as I stood among them, a young wife, a great wail of agony went out from my soul.</h3 quote>
+<h3 quote align='center'>I want to find someone who's really into something like I'm really into something, so that I can support them and we can both cheer each other on.</h3 quote>
 
 ---
 
