@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>But because we've all been readers, we know what the experience is like, and we hope that what certain writers have given to us, we will give to someone.</h3 quote>
+<h3 quote align='center'>Ground not upon dreams you know they are ever contrary.</h3 quote>
 
 ---
 
