@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If people choose to live their life in a way that does not confront the more troubling aspects of their experience, that's fine, if it works for them.</h3 quote>
+<h3 quote align='center'>But because we've all been readers, we know what the experience is like, and we hope that what certain writers have given to us, we will give to someone.</h3 quote>
 
 ---
 
