@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Ground not upon dreams you know they are ever contrary.</h3 quote>
+<h3 quote align='center'>No movie influenced me more to go after my dreams than 'Flashdance.</h3 quote>
 
 ---
 
