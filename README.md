@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>No movie influenced me more to go after my dreams than 'Flashdance.</h3 quote>
+<h3 quote align='center'>The truth is on the march and nothing will stop it.</h3 quote>
 
 ---
 
