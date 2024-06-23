@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The truth is on the march and nothing will stop it.</h3 quote>
+<h3 quote align='center'>Your present circumstances don't determine where you can go they merely determine where you start.</h3 quote>
 
 ---
 
