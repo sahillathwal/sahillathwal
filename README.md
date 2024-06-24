@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If you will call your troubles experiences, and remember that every experience develops some latent force within you, you will grow vigorous and happy, however adverse your circumstances may seem to be.</h3 quote>
+<h3 quote align='center'>All you need in this life is ignorance and confidence, and then Success is sure.</h3 quote>
 
 ---
 
