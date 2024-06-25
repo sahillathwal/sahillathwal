@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Theatre, when it is at its best, takes a lot of beating - the live experience and the shared collective experience of live storytelling is really special when it is good.</h3 quote>
+<h3 quote align='center'>Too many of us are not living our dreams because we are living our fears.</h3 quote>
 
 ---
 
