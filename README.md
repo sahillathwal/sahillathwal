@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Too many of us are not living our dreams because we are living our fears.</h3 quote>
+<h3 quote align='center'>I was so emotional.</h3 quote>
 
 ---
 
