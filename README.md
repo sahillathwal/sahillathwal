@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Look within.</h3 quote>
+<h3 quote align='center'>Only the mediocre are always at their best.</h3 quote>
 
 ---
 
