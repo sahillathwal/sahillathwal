@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind.</h3 quote>
+<h3 quote align='center'>Take what you can from your dreams, make them as real as anything.</h3 quote>
 
 ---
 
