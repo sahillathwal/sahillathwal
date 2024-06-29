@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Take what you can from your dreams, make them as real as anything.</h3 quote>
+<h3 quote align='center'>I am deliberate and afraid of nothing.</h3 quote>
 
 ---
 
