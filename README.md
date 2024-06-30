@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Put your heart, mind, and soul into even your smallest acts.</h3 quote>
+<h3 quote align='center'>He who never fell never climbed.</h3 quote>
 
 ---
 
