@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Our dreams are made of real things, like a shoebox full of photographs.</h3 quote>
+<h3 quote align='center'>The secret of all victory lies in the organization of the non-obvious.</h3 quote>
 
 ---
 
