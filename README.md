@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The secret of all victory lies in the organization of the non-obvious.</h3 quote>
+<h3 quote align='center'>Even on the most exalted throne in the world we areonly sitting on our own bottom.</h3 quote>
 
 ---
 
