@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There's no experience like on-the-job training.</h3 quote>
+<h3 quote align='center'>There are pros and cons of experience.</h3 quote>
 
 ---
 
