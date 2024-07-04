@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>That's not to say that women's priorities are better than men's.</h3 quote>
+<h3 quote align='center'>Vacillating people seldom succeed.</h3 quote>
 
 ---
 
