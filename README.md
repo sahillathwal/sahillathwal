@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Vacillating people seldom succeed.</h3 quote>
+<h3 quote align='center'>I understand it's my role to realize people's dreams.</h3 quote>
 
 ---
 
