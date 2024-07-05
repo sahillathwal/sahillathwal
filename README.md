@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I understand it's my role to realize people's dreams.</h3 quote>
+<h3 quote align='center'>Experience teaches us that it is much easier to prevent an enemy from posting themselves than it is to dislodge them after they have got possession.</h3 quote>
 
 ---
 
