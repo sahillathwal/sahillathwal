@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Obstacles are things a person sees when he takes his eyes off his goal.</h3 quote>
+<h3 quote align='center'>When you go visiting countries, you start reading the history of the place and you start getting into the culture, and then you have to leave.</h3 quote>
 
 ---
 
