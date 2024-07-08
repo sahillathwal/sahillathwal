@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Truly charismatic people, in my experience, don't come along very often.</h3 quote>
+<h3 quote align='center'>Success is the sole earthly judge of right and wrong.</h3 quote>
 
 ---
 
