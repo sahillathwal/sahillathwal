@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success is the sole earthly judge of right and wrong.</h3 quote>
+<h3 quote align='center'>The worst part of having success is to try finding someone who is happy for you.</h3 quote>
 
 ---
 
