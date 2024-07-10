@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.</h3 quote>
+<h3 quote align='center'>Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good.</h3 quote>
 
 ---
 
