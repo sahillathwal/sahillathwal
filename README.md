@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good.</h3 quote>
+<h3 quote align='center'>The idea of being able to serve as an example, based upon how to process, how to think, how to realize our own dreams, we can pass that down to our children.</h3 quote>
 
 ---
 
