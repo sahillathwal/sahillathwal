@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The idea of being able to serve as an example, based upon how to process, how to think, how to realize our own dreams, we can pass that down to our children.</h3 quote>
+<h3 quote align='center'>All men dream: but not equally.</h3 quote>
 
 ---
 
