@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success is the child of audacity.</h3 quote>
+<h3 quote align='center'>The noblest spirit is most strongly attracted by thelove of glory.</h3 quote>
 
 ---
 
