@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>To establish ourselves in the world, we have to do all we can to appear established.</h3 quote>
+<h3 quote align='center'>You know, my life's changed now.</h3 quote>
 
 ---
 
