@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The only thing that comes to a sleeping man is dreams.</h3 quote>
+<h3 quote align='center'>Too low they build who build below the skies.</h3 quote>
 
 ---
 
