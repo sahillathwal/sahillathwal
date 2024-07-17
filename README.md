@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Tears of joy are like the summer rain drops pierced by sunbeams.</h3 quote>
+<h3 quote align='center'>Success, as I see it, is a result, not a goal.</h3 quote>
 
 ---
 
