@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are no dreams too large, no innovation unimaginable and no frontiers beyond our reach.</h3 quote>
+<h3 quote align='center'>How far high failure overleaps the bounds of low success.</h3 quote>
 
 ---
 
