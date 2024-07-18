@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>How far high failure overleaps the bounds of low success.</h3 quote>
+<h3 quote align='center'>There is only one thing which can master the perplexed stuff of epic material into unity and that is, an ability to see in particular human experience some significant symbolism of man's general destiny.</h3 quote>
 
 ---
 
