@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There can be no knowledge without emotion.</h3 quote>
+<h3 quote align='center'>Obstacles are things a person sees when he takes his eyes off his goal.</h3 quote>
 
 ---
 
