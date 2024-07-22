@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Am I athletic? In my dreams.</h3 quote>
+<h3 quote align='center'>We didn't know how to run a business, but we had dreams and talent.</h3 quote>
 
 ---
 
