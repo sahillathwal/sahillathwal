@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The moral flabbiness born of the exclusive worship of the Bitch-Goddess success.</h3 quote>
+<h3 quote align='center'>A place for everything, everything in its place.</h3 quote>
 
 ---
 
