@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm not a good shot, but I shoot often.</h3 quote>
+<h3 quote align='center'>The successful people are the ones who can think up things for the rest of the world to keep busy at.</h3 quote>
 
 ---
 
