@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>In solitude we have our dreams to ourselves, and in company we agree to dream in concert.</h3 quote>
+<h3 quote align='center'>To 'choose' dogma and faith over doubt and experience is to throw out the ripening vintage and to reach greedily for the Kool-Aid.</h3 quote>
 
 ---
 
