@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>People are never more insecure than when they become obsessed with their fears at the expense of their dreams.</h3 quote>
+<h3 quote align='center'>The moral flabbiness born of the exclusive worship of the Bitch-Goddess success.</h3 quote>
 
 ---
 
