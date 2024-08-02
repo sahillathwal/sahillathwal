@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Never set limits, go after your dreams, don't be afraid to push the boundaries.</h3 quote>
+<h3 quote align='center'>Why be a man when you can be a success?.</h3 quote>
 
 ---
 
