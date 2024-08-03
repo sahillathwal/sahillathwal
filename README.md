@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The buildings that I build very often have a dreamlike reality.</h3 quote>
+<h3 quote align='center'>It's not like I don't have my own wants and dreams anymore - it's just that the kids come first.</h3 quote>
 
 ---
 
