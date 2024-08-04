@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I've been absolutely terrified every moment of my life - and I've never let it keep me from doing a single thing I wanted to do.</h3 quote>
+<h3 quote align='center'>There are some things you only learn through experience.</h3 quote>
 
 ---
 
