@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are some things you only learn through experience.</h3 quote>
+<h3 quote align='center'>I started off on stage because it was the only work I could get.</h3 quote>
 
 ---
 
