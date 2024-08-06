@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It has been my experience that if we make the effort to listen to people when we meet them, and work to get to know them a little, it is then easy to find something likeable in practically anyone.</h3 quote>
+<h3 quote align='center'>You change your life by changing your heart.</h3 quote>
 
 ---
 
