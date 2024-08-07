@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We are near waking when we dream we are dreaming.</h3 quote>
+<h3 quote align='center'>There are such beings as vampires, some of us have evidence that they exist.</h3 quote>
 
 ---
 
