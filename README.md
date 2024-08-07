@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are such beings as vampires, some of us have evidence that they exist.</h3 quote>
+<h3 quote align='center'>I believe that anyone can conquer fear by doing the things he fears to do, provided he keeps doing them until he gets a record of successful experience behind him.</h3 quote>
 
 ---
 
