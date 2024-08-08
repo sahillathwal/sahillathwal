@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Advertising is the edge of what people know how to do and of human experience and it explains the latest ways progress has changed us to ourselves.</h3 quote>
+<h3 quote align='center'>Put your heart, mind, and soul into even your smallest acts.</h3 quote>
 
 ---
 
