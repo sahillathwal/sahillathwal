@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Put your heart, mind, and soul into even your smallest acts.</h3 quote>
+<h3 quote align='center'>Memory is not an instrument for exploring the past but its theatre.</h3 quote>
 
 ---
 
