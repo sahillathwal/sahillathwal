@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Memory is not an instrument for exploring the past but its theatre.</h3 quote>
+<h3 quote align='center'>I got pregnant at 40 by surprise.</h3 quote>
 
 ---
 
