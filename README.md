@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>And then I went to 'Dawson's Creek,' which is a show that was, for better or for worse, all about the language.</h3 quote>
+<h3 quote align='center'>Yesterday we obeyed kings and bent our necks before emperors.</h3 quote>
 
 ---
 
