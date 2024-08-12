@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I paint what cannot be photographed, that which comes from the imagination or from dreams, or from an unconscious drive.</h3 quote>
+<h3 quote align='center'>Truth be told, I'm not an easy man.</h3 quote>
 
 ---
 
