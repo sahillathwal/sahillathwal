@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Truth be told, I'm not an easy man.</h3 quote>
+<h3 quote align='center'>Try not to become a man of success but rather try to become a man of value.</h3 quote>
 
 ---
 
