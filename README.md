@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Give me a firm place to stand, and I will move the earth.</h3 quote>
+<h3 quote align='center'>If the probability of success is not almost one, then it is damn near zero.</h3 quote>
 
 ---
 
