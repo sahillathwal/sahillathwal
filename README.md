@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Of all human activities, man's listening to God is the supreme act of his reasoning and will.</h3 quote>
+<h3 quote align='center'>The monsters of our childhood do not fade away, neither are they ever wholly monstrous.</h3 quote>
 
 ---
 
