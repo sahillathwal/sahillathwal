@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>In those days a concert was a personal experience.</h3 quote>
+<h3 quote align='center'>So many of my dreams were to actually be able to make a living of what I did as a hobby.</h3 quote>
 
 ---
 
