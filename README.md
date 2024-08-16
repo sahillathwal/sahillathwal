@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The monsters of our childhood do not fade away, neither are they ever wholly monstrous.</h3 quote>
+<h3 quote align='center'>In those days a concert was a personal experience.</h3 quote>
 
 ---
 
