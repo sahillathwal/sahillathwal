@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Wonder rather than doubt is the root of all knowledge.</h3 quote>
+<h3 quote align='center'>Of all human activities, man's listening to God is the supreme act of his reasoning and will.</h3 quote>
 
 ---
 
