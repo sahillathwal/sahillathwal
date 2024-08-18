@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Progress is measured by richness and intensity of experience - by a wider and deeper apprehension of the significance and scope of human existence.</h3 quote>
+<h3 quote align='center'>You change your life by changing your heart.</h3 quote>
 
 ---
 
