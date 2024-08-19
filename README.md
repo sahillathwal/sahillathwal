@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You change your life by changing your heart.</h3 quote>
+<h3 quote align='center'>Success is one unpardonable sin against one's fellows.</h3 quote>
 
 ---
 
