@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success is one unpardonable sin against one's fellows.</h3 quote>
+<h3 quote align='center'>Literature transmits incontrovertible condensed experience.</h3 quote>
 
 ---
 
