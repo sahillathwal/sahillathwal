@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I had the closest thing I have ever had to an out-of-body experience lying in bed one morning.</h3 quote>
+<h3 quote align='center'>Only those who have learned the power of sincere and selfless contribution experience life's deepest joy: true fulfillment.</h3 quote>
 
 ---
 
