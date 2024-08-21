@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Stability is more essential to success than brilliance.</h3 quote>
+<h3 quote align='center'>I grew up with not a lot of money and I definitely shopped at Goodwill.</h3 quote>
 
 ---
 
