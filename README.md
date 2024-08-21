@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Only those who have learned the power of sincere and selfless contribution experience life's deepest joy: true fulfillment.</h3 quote>
+<h3 quote align='center'>Stability is more essential to success than brilliance.</h3 quote>
 
 ---
 
