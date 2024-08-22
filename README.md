@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I grew up with not a lot of money and I definitely shopped at Goodwill.</h3 quote>
+<h3 quote align='center'>What great thing would you attempt if you knew you could not fail?.</h3 quote>
 
 ---
 
