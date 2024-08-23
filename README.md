@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Once you're in a particular country, and you're surrounded by musicians who are so adept at traditional music, you suddenly realize how much there is to explore and digest and learn and experience.</h3 quote>
+<h3 quote align='center'>In some movies you feel like you're a very small part of a huge machine.</h3 quote>
 
 ---
 
