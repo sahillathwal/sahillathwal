@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I am prepared for the worst, but hope for the best.</h3 quote>
+<h3 quote align='center'>I love to fly.</h3 quote>
 
 ---
 
