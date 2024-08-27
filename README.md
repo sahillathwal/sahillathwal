@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Hope is some extraordinary spiritual grace that God gives us to control our fears, not to oust them.</h3 quote>
+<h3 quote align='center'>There are two ways of spreading light: to be the candle or the mirror that reflects it.</h3 quote>
 
 ---
 
