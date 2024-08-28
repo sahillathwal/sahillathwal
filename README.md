@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Show me your hands.</h3 quote>
+<h3 quote align='center'>The Columbia is lost, but the dreams that inspired its crew remain with us.</h3 quote>
 
 ---
 
