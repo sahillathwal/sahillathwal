@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams must be heeded and accepted.</h3 quote>
+<h3 quote align='center'>Given the choice of friendship or success, I'd probably choose success.</h3 quote>
 
 ---
 
