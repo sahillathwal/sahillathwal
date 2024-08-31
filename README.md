@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Being in love is the only transcendent experience.</h3 quote>
+<h3 quote align='center'>I am accustomed to sleep and in my dreams to imagine the same things that lunatics imagine when awake.</h3 quote>
 
 ---
 
