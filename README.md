@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We must walk consciously only part way toward our goal, and then leap in the dark to our success.</h3 quote>
+<h3 quote align='center'>Noble deeds that are concealed are most esteemed.</h3 quote>
 
 ---
 
