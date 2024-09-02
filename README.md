@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Noble deeds that are concealed are most esteemed.</h3 quote>
+<h3 quote align='center'>We went with the St.</h3 quote>
 
 ---
 
