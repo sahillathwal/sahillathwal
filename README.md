@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.</h3 quote>
+<h3 quote align='center'>I led the life of an intellectual up until a certain age.</h3 quote>
 
 ---
 
