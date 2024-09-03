@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I led the life of an intellectual up until a certain age.</h3 quote>
+<h3 quote align='center'>A life spent in constant labor is a life wasted, save a man be such a fool as to regard a fulsome obituary notice as ample reward.</h3 quote>
 
 ---
 
