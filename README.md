@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>All you need in this life is ignorance and confidence, and then Success is sure.</h3 quote>
+<h3 quote align='center'>Our truest life is when we are in dreams awake.</h3 quote>
 
 ---
 
