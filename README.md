@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Our truest life is when we are in dreams awake.</h3 quote>
+<h3 quote align='center'>Bringing an end to the conflict between Israel and the Palestinians may help the young Arab generation to realise their aspirations.</h3 quote>
 
 ---
 
