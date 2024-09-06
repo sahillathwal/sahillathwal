@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The Cut' is going to give someone the opportunity of a lifetime and help that person achieve his or her dreams.</h3 quote>
+<h3 quote align='center'>I would like to see anyone be able to achieve their dreams, and that's what this organization does.</h3 quote>
 
 ---
 
