@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I would like to see anyone be able to achieve their dreams, and that's what this organization does.</h3 quote>
+<h3 quote align='center'>It's always an interesting experience for a politician to be heard in silence, I have to say.</h3 quote>
 
 ---
 
