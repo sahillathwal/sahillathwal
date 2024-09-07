@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It's always an interesting experience for a politician to be heard in silence, I have to say.</h3 quote>
+<h3 quote align='center'>I loved the material when I first read it, and the experience of making the film was a great one.</h3 quote>
 
 ---
 
