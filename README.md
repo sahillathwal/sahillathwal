@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A lot of people fear death because they think that so overwhelming an experience has to be painful, but I've seen quite a few deaths, and, with one exception, I've never known anyone to undergo anything like agony.</h3 quote>
+<h3 quote align='center'>Some folks can look so busy doing nothin' that they seem indispensable.</h3 quote>
 
 ---
 
