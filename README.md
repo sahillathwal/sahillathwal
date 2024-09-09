@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Surely all art is the result of one's having been in danger, of having gone through an experience all the way to the end, where no one can go any further.</h3 quote>
+<h3 quote align='center'>You lose your individuality a huge amount when you have no money, and I certainly had that experience.</h3 quote>
 
 ---
 
