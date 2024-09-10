@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You lose your individuality a huge amount when you have no money, and I certainly had that experience.</h3 quote>
+<h3 quote align='center'>Success is that old ABC.</h3 quote>
 
 ---
 
