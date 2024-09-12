@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>What is sure is that technological change is accelerating in all directions and, like children playing in a fountain, consumers are reveling in the experience.</h3 quote>
+<h3 quote align='center'>For success, attitude is equally as important as ability.</h3 quote>
 
 ---
 
