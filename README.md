@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If you search and search and stop searching, then ultimately you'll find what you need.</h3 quote>
+<h3 quote align='center'>Think with your whole body.</h3 quote>
 
 ---
 
