@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If A equals success, then the formula is A equals X plus Y and Z, with X being work, Y play, and Z keeping your mouth shut.</h3 quote>
+<h3 quote align='center'>Observation more than books and experience more than persons, are the prime educators.</h3 quote>
 
 ---
 
