@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good.</h3 quote>
+<h3 quote align='center'>If A equals success, then the formula is A equals X plus Y and Z, with X being work, Y play, and Z keeping your mouth shut.</h3 quote>
 
 ---
 
