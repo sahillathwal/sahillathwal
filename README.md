@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Observation more than books and experience more than persons, are the prime educators.</h3 quote>
+<h3 quote align='center'>It's not my job to dream your dreams.</h3 quote>
 
 ---
 
