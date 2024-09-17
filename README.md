@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Happiness is the natural flower of duty.</h3 quote>
+<h3 quote align='center'>Every actor dreams of getting a big break, a big opportunity.</h3 quote>
 
 ---
 
