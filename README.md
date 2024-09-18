@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I have looked into your eyes with my eyes.</h3 quote>
+<h3 quote align='center'>I'm not a good shot, but I shoot often.</h3 quote>
 
 ---
 
