@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm not a good shot, but I shoot often.</h3 quote>
+<h3 quote align='center'>If a man is happy in his work exerting himself to the full extent of his capabilities, and enjoying it I'd say he's a success.</h3 quote>
 
 ---
 
