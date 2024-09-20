@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You have people come into your life shockingly and surprisingly.</h3 quote>
+<h3 quote align='center'>Look within.</h3 quote>
 
 ---
 
