@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I can't change the direction of the wind, but I can adjust my sails to always reach my destination.</h3 quote>
+<h3 quote align='center'>I have relationships with people I'm working with, based on our combined interest.</h3 quote>
 
 ---
 
