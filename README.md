@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I have relationships with people I'm working with, based on our combined interest.</h3 quote>
+<h3 quote align='center'>There is nothing stronger in the world than gentleness.</h3 quote>
 
 ---
 
