@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>And it was a great experience, you know, to travel the world and compete at a certain level.</h3 quote>
+<h3 quote align='center'>The experience of being in space didn't change my perspective of myself or of the planet or of life.</h3 quote>
 
 ---
 
