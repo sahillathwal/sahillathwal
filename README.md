@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There is nothing stronger in the world than gentleness.</h3 quote>
+<h3 quote align='center'>And it was a great experience, you know, to travel the world and compete at a certain level.</h3 quote>
 
 ---
 
