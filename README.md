@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Take control of your consistent emotions and begin to consciously and deliberately reshape your daily experience of life.</h3 quote>
+<h3 quote align='center'>Everyone here has the sense that right now is one of those moments when we are influencing the future.</h3 quote>
 
 ---
 
