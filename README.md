@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Women love working together.</h3 quote>
+<h3 quote align='center'>God always gives His best to those who leave the choice with him.</h3 quote>
 
 ---
 
