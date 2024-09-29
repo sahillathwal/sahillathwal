@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm living out my dreams and I love what I do.</h3 quote>
+<h3 quote align='center'>Hitch your wagon to a star.</h3 quote>
 
 ---
 
