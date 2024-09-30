@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The position that I take partly as a result of living in Asia is where you stop living according to your expectations and you become available to experience things as they are.</h3 quote>
+<h3 quote align='center'>Gratitude bestows reverence, allowing us to encounter everyday epiphanies, those transcendent moments of awe that change forever how we experience life and the world.</h3 quote>
 
 ---
 
