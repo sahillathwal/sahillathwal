@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Gradually it occurred to me that we spend a great deal of life asleep and that dreams are little narratives, little stories.</h3 quote>
+<h3 quote align='center'>I don't think I've ever worked so hard on something, but working on Macintosh was the neatest experience of my life.</h3 quote>
 
 ---
 
