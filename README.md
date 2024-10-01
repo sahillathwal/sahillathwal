@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Gratitude bestows reverence, allowing us to encounter everyday epiphanies, those transcendent moments of awe that change forever how we experience life and the world.</h3 quote>
+<h3 quote align='center'>Gradually it occurred to me that we spend a great deal of life asleep and that dreams are little narratives, little stories.</h3 quote>
 
 ---
 
