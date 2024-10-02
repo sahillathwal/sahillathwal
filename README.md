@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I did commit to myself that I would not jump back into being the workaholic that I can be before I gave myself an honest opportunity to create the marriage of my dreams and to create the beginning of the family of my dreams, and that took a hot second.</h3 quote>
+<h3 quote align='center'>I pray God may preserve your health and life many years.</h3 quote>
 
 ---
 
