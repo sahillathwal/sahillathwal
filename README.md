@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I pray God may preserve your health and life many years.</h3 quote>
+<h3 quote align='center'>If you accept the expectations of others, especially negative ones, then you never will change the outcome.</h3 quote>
 
 ---
 
