@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.</h3 quote>
+<h3 quote align='center'>No bird soars too high if he soars with his own wings.</h3 quote>
 
 ---
 
