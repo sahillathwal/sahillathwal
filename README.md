@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>If at first you don't succeed, try, try, again.</h3 quote>
+<h3 quote align='center'>Give light and people will find the way.</h3 quote>
 
 ---
 
