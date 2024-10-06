@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Give light and people will find the way.</h3 quote>
+<h3 quote align='center'>There's a good deal in common between the mind's eye and the TV screen, and though the TV set has all too often been the boobtube, it could be, it can be, the box of dreams.</h3 quote>
 
 ---
 
