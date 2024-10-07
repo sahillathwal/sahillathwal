@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>To most men experience is like the stern lights of a ship, which illuminate only the track it has passed.</h3 quote>
+<h3 quote align='center'>I put a lot of faith in dreams.</h3 quote>
 
 ---
 
