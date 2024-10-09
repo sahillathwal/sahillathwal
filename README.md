@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I've never felt like I was in the cookie business.</h3 quote>
+<h3 quote align='center'>I don't want people to sit there and objectively watch the film.</h3 quote>
 
 ---
 
