@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I tell people, 'It's just like a cliche, but it's true: In Hollywood, dreams can come true.</h3 quote>
+<h3 quote align='center'>What if Barack Obama established a Presidential Advisory Committee that would meet once every couple of months, bringing together the former presidents for a conference in order to seek their collective wisdom? There is a wealth of experience in former presidents that generally goes untapped.</h3 quote>
 
 ---
 
