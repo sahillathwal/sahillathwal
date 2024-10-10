@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It has never been my object to record my dreams, just the determination to realize them.</h3 quote>
+<h3 quote align='center'>I tell people, 'It's just like a cliche, but it's true: In Hollywood, dreams can come true.</h3 quote>
 
 ---
 
