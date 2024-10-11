@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>What if Barack Obama established a Presidential Advisory Committee that would meet once every couple of months, bringing together the former presidents for a conference in order to seek their collective wisdom? There is a wealth of experience in former presidents that generally goes untapped.</h3 quote>
+<h3 quote align='center'>If we don't succeed, we run the risk of failure.</h3 quote>
 
 ---
 
