@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Ideas shape the course of history.</h3 quote>
+<h3 quote align='center'>Everybody's got one killer story.</h3 quote>
 
 ---
 
