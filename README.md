@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A man is a god in ruins.</h3 quote>
+<h3 quote align='center'>Whoever I can go out every week and motivate to do better and to try to go after their dreams, I'm up for that.</h3 quote>
 
 ---
 
