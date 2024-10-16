@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The secret of all victory lies in the organization of the non-obvious.</h3 quote>
+<h3 quote align='center'>That's what learning is, after all; not whether we lose the game, but how we lose and how we've changed because of it and what we take away from it that we never had before, to apply to other games.</h3 quote>
 
 ---
 
