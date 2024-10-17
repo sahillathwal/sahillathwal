@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>That's what learning is, after all; not whether we lose the game, but how we lose and how we've changed because of it and what we take away from it that we never had before, to apply to other games.</h3 quote>
+<h3 quote align='center'>We are people with all the hopes, dreams, passions, and faults of everyone else.</h3 quote>
 
 ---
 
