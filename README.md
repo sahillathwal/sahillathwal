@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We are people with all the hopes, dreams, passions, and faults of everyone else.</h3 quote>
+<h3 quote align='center'>Why be a man when you can be a success?.</h3 quote>
 
 ---
 
