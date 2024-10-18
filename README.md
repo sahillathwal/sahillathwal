@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Men do weird things when they experience fear.</h3 quote>
+<h3 quote align='center'>Experience has shown, and a true philosophy will always show, that a vast, perhaps the larger portion of the truth arises from the seemingly irrelevant.</h3 quote>
 
 ---
 
