@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The resistance of a woman is not always a proof of her virtue, but more frequently of her experience.</h3 quote>
+<h3 quote align='center'>When a man blames others for his failures, it's a good idea to credit others with his successes.</h3 quote>
 
 ---
 
