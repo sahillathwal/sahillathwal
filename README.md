@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Simplicity is the most difficult thing to secure in this world it is the last limit of experience and the last effort of genius.</h3 quote>
+<h3 quote align='center'>Don't let the fear of striking out hold you back.</h3 quote>
 
 ---
 
