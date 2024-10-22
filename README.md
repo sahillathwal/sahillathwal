@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I would go to bed every night and have dreams about having a time machine and somehow I'd have the ability to move through time and space freely, and save Anne Frank.</h3 quote>
+<h3 quote align='center'>We are different, in essence, from other men.</h3 quote>
 
 ---
 
