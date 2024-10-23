@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Good dreams don't come cheap, you've got to pay for them and If you just dream when you're asleep this is no way for them to come alive.</h3 quote>
+<h3 quote align='center'>No bird soars too high if he soars with his own wings.</h3 quote>
 
 ---
 
