@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>No bird soars too high if he soars with his own wings.</h3 quote>
+<h3 quote align='center'>A man is a god in ruins.</h3 quote>
 
 ---
 
