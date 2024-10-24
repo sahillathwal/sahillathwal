@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Disease is an experience of a so-called mortal mind.</h3 quote>
+<h3 quote align='center'>I save my dreams and hopes for my kids.</h3 quote>
 
 ---
 
