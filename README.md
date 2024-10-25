@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I save my dreams and hopes for my kids.</h3 quote>
+<h3 quote align='center'>I don't think any good book is based on factual experience.</h3 quote>
 
 ---
 
