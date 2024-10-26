@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It is not enough to succeed.</h3 quote>
+<h3 quote align='center'>Our thoughts have an order, not of themselves, but because the mind generates the spatio-temporal relationships involved in every experience.</h3 quote>
 
 ---
 
