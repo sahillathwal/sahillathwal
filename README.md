@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>God is only a great imaginative experience.</h3 quote>
+<h3 quote align='center'>As for the forces, electromagnetism and gravity we experience in everyday life.</h3 quote>
 
 ---
 
