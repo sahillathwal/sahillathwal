@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>America allows us to be able to dream, then gives us the ability to achieve those dreams.</h3 quote>
+<h3 quote align='center'>Gradually it occurred to me that we spend a great deal of life asleep and that dreams are little narratives, little stories.</h3 quote>
 
 ---
 
