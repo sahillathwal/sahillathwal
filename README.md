@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You can't hold a man down without staying down with him.</h3 quote>
+<h3 quote align='center'>America allows us to be able to dream, then gives us the ability to achieve those dreams.</h3 quote>
 
 ---
 
