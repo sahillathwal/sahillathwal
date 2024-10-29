@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams are illustrations.</h3 quote>
+<h3 quote align='center'>Capital isn't that important in business.</h3 quote>
 
 ---
 
