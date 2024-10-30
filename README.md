@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Capital isn't that important in business.</h3 quote>
+<h3 quote align='center'>I mean, I really liked those guys and the experience of doing Raiders was really good for me, but I did not really want to be involved - I only did Jedi, as I really owed George a favor.</h3 quote>
 
 ---
 
