@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I'm not particularly precious about the theatrical experience any more.</h3 quote>
+<h3 quote align='center'>I think everyone's experience with a terminal disease is so deeply personal and unique to the person, the context in which they're living and the relationships that they have.</h3 quote>
 
 ---
 
