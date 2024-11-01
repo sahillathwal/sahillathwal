@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</h3 quote>
+<h3 quote align='center'>Every moment and every event of every man's life on earth plants something in his soul.</h3 quote>
 
 ---
 
