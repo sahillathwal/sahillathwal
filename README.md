@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I think everyone's experience with a terminal disease is so deeply personal and unique to the person, the context in which they're living and the relationships that they have.</h3 quote>
+<h3 quote align='center'>Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</h3 quote>
 
 ---
 
