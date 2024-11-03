@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It is one of the blessings of this world that few people see visions and dream dreams.</h3 quote>
+<h3 quote align='center'>There is much to be said for failure.</h3 quote>
 
 ---
 
