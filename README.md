@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are two ways of spreading light: to be the candle or the mirror that reflects it.</h3 quote>
+<h3 quote align='center'>It is one of the blessings of this world that few people see visions and dream dreams.</h3 quote>
 
 ---
 
