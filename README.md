@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Think with your whole body.</h3 quote>
+<h3 quote align='center'>The printed page conveys information and commitment, and requires active involvement.</h3 quote>
 
 ---
 
