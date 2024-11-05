@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The printed page conveys information and commitment, and requires active involvement.</h3 quote>
+<h3 quote align='center'>I had decided I wanted to write about food, and I knew the only way to do that is to speak with authority, which meant learning the language and knowing what that experience is like.</h3 quote>
 
 ---
 
