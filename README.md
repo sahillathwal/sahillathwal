@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We should be dreaming.</h3 quote>
+<h3 quote align='center'>You don't cheat anybody out of their experience, whatever it is.</h3 quote>
 
 ---
 
