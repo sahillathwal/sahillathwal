@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You know, Willie Wonka said it best: we are the makers of dreams, the dreamers of dreams.</h3 quote>
+<h3 quote align='center'>Something happens to us all when we experience something as a unit that doesn't occur when we're on our couches or holding our little portable DVD players.</h3 quote>
 
 ---
 
