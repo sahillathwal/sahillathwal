@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>In a gentle way, you can shake the world.</h3 quote>
+<h3 quote align='center'>You know, Willie Wonka said it best: we are the makers of dreams, the dreamers of dreams.</h3 quote>
 
 ---
 
