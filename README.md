@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Be faithful to that which exists within yourself.</h3 quote>
+<h3 quote align='center'>That disturbs people when they know they didn't have the guts or integrity to stick to their dreams.</h3 quote>
 
 ---
 
