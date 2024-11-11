@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I maybe had a first love and had my heart broken, but reflecting on it, I don't think that was love.</h3 quote>
+<h3 quote align='center'>The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another's, smile at someone and receive a smile in return, are to me continual spiritual exercises.</h3 quote>
 
 ---
 
