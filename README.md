@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success is a public affair.</h3 quote>
+<h3 quote align='center'>I maybe had a first love and had my heart broken, but reflecting on it, I don't think that was love.</h3 quote>
 
 ---
 
