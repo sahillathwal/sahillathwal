@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It is better to fail in a cause that will ultimately succeed than to succeed in a cause that will ultimately fail.</h3 quote>
+<h3 quote align='center'>When a novel has 200,000 words, then it is possible for the reader to experience 200,000 delights, and to turn back to the first page of the book and experience them all over again, perhaps more intensely.</h3 quote>
 
 ---
 
