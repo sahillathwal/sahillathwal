@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams really tell you about yourself more than anything else in this world could ever tell you.</h3 quote>
+<h3 quote align='center'>It is better to fail in a cause that will ultimately succeed than to succeed in a cause that will ultimately fail.</h3 quote>
 
 ---
 
