@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams are often most profound when they seem the most crazy.</h3 quote>
+<h3 quote align='center'>It is not enough to aim, you must hit.</h3 quote>
 
 ---
 
