@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It is not enough to aim, you must hit.</h3 quote>
+<h3 quote align='center'>Nurture your minds with great thoughts.</h3 quote>
 
 ---
 
