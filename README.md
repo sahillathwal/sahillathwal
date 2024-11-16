@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success without honor is an unseasoned dish; it will satisfy your hunger, but it won't taste good.</h3 quote>
+<h3 quote align='center'>We should not look back unless it is to derive useful lessons from past errors, and for the purpose of profiting by dearly bought experience.</h3 quote>
 
 ---
 
