@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We have lost that which has made us great over the generations, and that is the sense of individual and personal responsibility that we can come up, we can pursue our dreams and our aspirations and we won't be blocked by government regulation, by the inability to get a loan as a small business to make our dreams come true.</h3 quote>
+<h3 quote align='center'>The interpretation of dreams is a great art.</h3 quote>
 
 ---
 
