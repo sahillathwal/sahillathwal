@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>It never occurred to me that I'd be on a television show or in feature films but when those came into play my dreams changed along the way.</h3 quote>
+<h3 quote align='center'>Success - keeping your mind awake and your desire asleep.</h3 quote>
 
 ---
 
