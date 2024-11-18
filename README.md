@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success - keeping your mind awake and your desire asleep.</h3 quote>
+<h3 quote align='center'>For all life is a dream, and dreams themselves are only dreams.</h3 quote>
 
 ---
 
