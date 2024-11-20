@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>What we achieve inwardly will change outer reality.</h3 quote>
+<h3 quote align='center'>I am deliberate and afraid of nothing.</h3 quote>
 
 ---
 
