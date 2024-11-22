@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Only the mediocre are always at their best.</h3 quote>
+<h3 quote align='center'>Avatar' is the greatest, most comprehensive collection of movie cliches ever assembled, but it's put together in a brand new way with a new technology, and tremendous imagination, making it a true epic and a kind of a milestone.</h3 quote>
 
 ---
 
