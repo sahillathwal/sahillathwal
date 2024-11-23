@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Sports nurtures dreams of achieving self confidence and masculine striving for the skinny kid watching a boxer dance around the ring with sublime ease.</h3 quote>
+<h3 quote align='center'>Our theory is, if you need the user to tell you what you're selling, then you don't know what you're selling, and it's probably not going to be a good experience.</h3 quote>
 
 ---
 
