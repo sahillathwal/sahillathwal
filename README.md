@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Business and growing jobs is about taking risk, sometimes failing, sometimes succeeding, but always striving.</h3 quote>
+<h3 quote align='center'>Sports nurtures dreams of achieving self confidence and masculine striving for the skinny kid watching a boxer dance around the ring with sublime ease.</h3 quote>
 
 ---
 
