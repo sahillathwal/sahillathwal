@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Our theory is, if you need the user to tell you what you're selling, then you don't know what you're selling, and it's probably not going to be a good experience.</h3 quote>
+<h3 quote align='center'>Success provides more opportunities to say things than the number of things a pundit has worth saying.</h3 quote>
 
 ---
 
