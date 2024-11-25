@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You have many years ahead of you to create the dreams that we can't even imagine dreaming.</h3 quote>
+<h3 quote align='center'>What great thing would you attempt if you knew you could not fail?.</h3 quote>
 
 ---
 
