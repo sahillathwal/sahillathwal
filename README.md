@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I don't dream songs.</h3 quote>
+<h3 quote align='center'>I had the closest thing I have ever had to an out-of-body experience lying in bed one morning.</h3 quote>
 
 ---
 
