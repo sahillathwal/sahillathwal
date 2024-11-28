@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A #2 pencil and a dream can take you anywhere.</h3 quote>
+<h3 quote align='center'>I don't dream songs.</h3 quote>
 
 ---
 
