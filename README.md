@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>We become not a melting pot but a beautiful mosaic.</h3 quote>
+<h3 quote align='center'>Don't give up on your dreams, or your dreams will give up on you.</h3 quote>
 
 ---
 
