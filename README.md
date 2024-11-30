@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>No one ever pretended that shopping for anything is a rational experience.</h3 quote>
+<h3 quote align='center'>We become not a melting pot but a beautiful mosaic.</h3 quote>
 
 ---
 
