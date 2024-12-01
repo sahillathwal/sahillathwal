@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Don't give up on your dreams, or your dreams will give up on you.</h3 quote>
+<h3 quote align='center'>So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable.</h3 quote>
 
 ---
 
