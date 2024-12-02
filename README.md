@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Everyone here has the sense that right now is one of those moments when we are influencing the future.</h3 quote>
+<h3 quote align='center'>To be in a situation where you have no rights whatsoever is something I wish everybody could experience.</h3 quote>
 
 ---
 
