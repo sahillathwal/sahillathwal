@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>To be in a situation where you have no rights whatsoever is something I wish everybody could experience.</h3 quote>
+<h3 quote align='center'>For some young people, their first experience ever hearing punk rock music was playing the Green Bay Packers on 'Madden'.</h3 quote>
 
 ---
 
