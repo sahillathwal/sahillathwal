@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>For some young people, their first experience ever hearing punk rock music was playing the Green Bay Packers on 'Madden'.</h3 quote>
+<h3 quote align='center'>Many people have the ambition to succeed in their work; they may even have special aptitude for their job.</h3 quote>
 
 ---
 
