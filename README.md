@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Many people have the ambition to succeed in their work; they may even have special aptitude for their job.</h3 quote>
+<h3 quote align='center'>Today, I'm very happy about myself, because I realized my dreams.</h3 quote>
 
 ---
 
