@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Today, I'm very happy about myself, because I realized my dreams.</h3 quote>
+<h3 quote align='center'>A dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world.</h3 quote>
 
 ---
 
