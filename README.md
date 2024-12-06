@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The only thing that ultimately matters is to eat an ice-cream cone, play a slide trombone, plant a small tree, good God, now you're free.</h3 quote>
+<h3 quote align='center'>Where ambition can cover its enterprises, even to the person himself, under the appearance of principle, it is the most incurable and inflexible of passions.</h3 quote>
 
 ---
 
