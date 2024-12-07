@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I save my dreams and hopes for my kids.</h3 quote>
+<h3 quote align='center'>If you're out there stressing on your pro day, then you're not going to perform well, so I plan on having a little fun.</h3 quote>
 
 ---
 
