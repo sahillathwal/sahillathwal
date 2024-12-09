@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>That's not to say that women's priorities are better than men's.</h3 quote>
+<h3 quote align='center'>I believe there's an inner power that makes winners or losers.</h3 quote>
 
 ---
 
