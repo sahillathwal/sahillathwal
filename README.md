@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You don't know what unconditional love is.</h3 quote>
+<h3 quote align='center'>I believe there's no proverb but what is true they are all so many sentences and maxims drawn from experience, the universal mother of sciences.</h3 quote>
 
 ---
 
