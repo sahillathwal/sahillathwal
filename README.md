@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>You don't know what unconditional love is.</h3 quote>
+<h3 quote align='center'>It's inspirational to see someone who is dying smile.</h3 quote>
 
 ---
 
