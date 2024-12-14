@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>The educator must believe in the potential power of his pupil, and he must employ all his art in seeking to bring his pupil to experience this power.</h3 quote>
+<h3 quote align='center'>You don't know what unconditional love is.</h3 quote>
 
 ---
 
