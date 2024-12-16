@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Experience taught me that working families are often just one pay check away from economic disaster.</h3 quote>
+<h3 quote align='center'>At some time in the life cycle of virtually every organization, its ability to succeed in spite of itself runs out.</h3 quote>
 
 ---
 
