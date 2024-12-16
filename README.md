@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>No matter how vital experience might be while you lived it, no sooner was it ended and dead than it became as lifeless as the piles of dry dust in a school history book.</h3 quote>
+<h3 quote align='center'>Experience taught me that working families are often just one pay check away from economic disaster.</h3 quote>
 
 ---
 
