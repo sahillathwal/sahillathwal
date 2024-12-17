@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There is a time in the tides of men, Which, taken at its flood, leads on to success.</h3 quote>
+<h3 quote align='center'>I'm living out my dreams and I love what I do.</h3 quote>
 
 ---
 
