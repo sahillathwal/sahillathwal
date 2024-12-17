@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>At some time in the life cycle of virtually every organization, its ability to succeed in spite of itself runs out.</h3 quote>
+<h3 quote align='center'>There is a time in the tides of men, Which, taken at its flood, leads on to success.</h3 quote>
 
 ---
 
