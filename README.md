@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Dreams can come true.</h3 quote>
+<h3 quote align='center'>Acting is fantastic, but to be able to create a whole world on celluloid is amazing.</h3 quote>
 
 ---
 
