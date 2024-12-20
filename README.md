@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Judgment comes from experience and great judgment comes from bad experience.</h3 quote>
+<h3 quote align='center'>Judgement comes from experience, and experience comes from bad judgement.</h3 quote>
 
 ---
 
