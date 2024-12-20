@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I don't believe in the so-called Olympic spirit.</h3 quote>
+<h3 quote align='center'>Judgment comes from experience and great judgment comes from bad experience.</h3 quote>
 
 ---
 
