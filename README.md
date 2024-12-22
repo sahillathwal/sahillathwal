@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A twenty-one-year-old writer is likely to be inhibited by a lack of usable experience.</h3 quote>
+<h3 quote align='center'>Both dreams and myths are important communications from ourselves to ourselves.</h3 quote>
 
 ---
 
