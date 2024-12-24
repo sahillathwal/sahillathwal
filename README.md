@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>A player dreams of being a superstar, but he doesn't want people flocking all over him asking for an autograph.</h3 quote>
+<h3 quote align='center'>I have a mess in my head sometimes, and there's something very satisfying about putting it into words.</h3 quote>
 
 ---
 
