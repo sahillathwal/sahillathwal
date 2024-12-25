@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.</h3 quote>
+<h3 quote align='center'>When you go to the movies with your whole family, it's a different experience.</h3 quote>
 
 ---
 
