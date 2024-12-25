@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>I have a mess in my head sometimes, and there's something very satisfying about putting it into words.</h3 quote>
+<h3 quote align='center'>I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.</h3 quote>
 
 ---
 
