@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>When you go to the movies with your whole family, it's a different experience.</h3 quote>
+<h3 quote align='center'>Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.</h3 quote>
 
 ---
 
