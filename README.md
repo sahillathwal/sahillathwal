@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.</h3 quote>
+<h3 quote align='center'>He that climbs the tall tree has won right to the fruit, He that leaps the wide gulf should prevail in his suit.</h3 quote>
 
 ---
 
