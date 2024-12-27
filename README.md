@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Experience is the name that everyone gives to his mistakes.</h3 quote>
+<h3 quote align='center'>Believe you can and you're halfway there.</h3 quote>
 
 ---
 
