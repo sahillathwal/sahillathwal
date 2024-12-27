@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>He that climbs the tall tree has won right to the fruit, He that leaps the wide gulf should prevail in his suit.</h3 quote>
+<h3 quote align='center'>Experience is the name that everyone gives to his mistakes.</h3 quote>
 
 ---
 
