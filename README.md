@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Experience hath shewn, that even under the best forms of government those entrusted with power have, in time, and by slow operations, perverted it into tyranny.</h3 quote>
+<h3 quote align='center'>Dreams pass into the reality of action.</h3 quote>
 
 ---
 
