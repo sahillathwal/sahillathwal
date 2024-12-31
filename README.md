@@ -6,7 +6,7 @@
 ---
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>Our life is composed greatly from dreams, from the unconscious, and they must be brought into connection with action.</h3 quote>
+<h3 quote align='center'>Men must live and create.</h3 quote>
 
 ---
 
