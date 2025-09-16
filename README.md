@@ -31,9 +31,9 @@ I'm an **AI Robotics** practitioner. My day-to-day work revolves around expandin
 
 | Project | Description | Technologies Used |
 |--|--|--|
-| **Elective Selection Web App (Alliance University)** | Internal Morden cloud based web app for course elective selection. <a href="https://au-elective.web.app/" target="_blank" rel="noopener noreferrer"><b>Check it out</b></a> | Flutter, Firebase |
+| **Elective Selection Web App (Alliance University)** | Internal Modern cloud based web app for course elective selection. <a href="https://au-elective.web.app/" target="_blank" rel="noopener noreferrer"><b>Check it out</b></a> | Flutter, Firebase |
 | **Hasti Ganga Agro Industries Website** | Static site generator (SSG) for Hasti Ganga Agro Industries company. <a href="https://www.hastiganga.com/" target="_blank" rel="noopener noreferrer"><b>Check it out</b></a> | Astro, Cloudflare |
-| **Skin6 Clinic Website** | Wordpress website for Skin6 clinic. <a href="https://skin6.in/" target="_blank" rel="noopener noreferrer"><b>Check it out</b></a> | Wordpress, Hosting, SEO |
+| **Skin6 Clinic Website** | WordPress website for Skin6 clinic. <a href="https://skin6.in/" target="_blank" rel="noopener noreferrer"><b>Check it out</b></a> | WordPress, Hosting, SEO |
 
 ---
 
@@ -41,6 +41,7 @@ I'm an **AI Robotics** practitioner. My day-to-day work revolves around expandin
 
 | Organization | Role | Duration |
 |--|--|--|
+| **Audria** | Hardware Lead | *September-2025 to Present* |
 | **Indian Institute of Science (IISc)** | Drone Intern | *March-2024 to August-2024* |
 | **ARTPARK (AI & Robotics Technology Park)** | Robotics Intern | *August-2024 to January-2025* |
 | **Open Science Stack** | Robotics Engineer (RAS-ROS2) | *September-2024 to December-2024* |
@@ -95,8 +96,12 @@ I'm an **AI Robotics** practitioner. My day-to-day work revolves around expandin
 
 | <img title="ARM" alt="ARM" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Arm_logo_2025.svg"> | <img title="ARM Cortex-M" alt="ARM Cortex-M" width="40" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"> |
 |--|--|
-| ARM | ARM Cortex‑M |
+| ARM | ARM Cortex-M |
 
+**Embedded & Wireless**
+
+| nRF5340 | Zephyr RTOS | nRF Connect SDK | BLE | BLE Audio (LC3) | DMIC / I2S |
+|--|--|--|--|--|--|
 ---
 
 ## Some of my stats :bar_chart:
