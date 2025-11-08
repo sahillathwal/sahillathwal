@@ -17,6 +17,7 @@ I'm an **AI Robotics** practitioner. My day-to-day work revolves around expandin
 
 | Project | Description | Technologies Used / Learned |
 |--|--|--|
+| **Greenhouse Segmentation (GIS + ML)** | A reproducible and replicable ML pipeline for desired object detection by fine-tuning segmentation model on geospatial imagery end to end Georeferenced for GIS tasks like reverse geocoding(eg. aadresses of the detected objects | PyTorch, DuckDB, RasterIO, GeoPandas, leafmap, QGIS/ArcGIS, GCP, Data processing, Architectures and Encoders likes UNet++, EfficientNet|
 | **RAS-ROS2** | Robot Application Stack for ROS 2 developed as part of my role at Open Science Stack. Focused on modular robotics software, integrated with simulation and hardware. | xArm (UFactory), Franka Emika, KUKA, ROS 2, MoveIt 2, Docker, C++, Python, Gazebo, Git, CI/CD |
 | **Behavior Tree ROS 2 Middleware (RAS-ROS2)** | Custom middleware layer built on Behavior Trees using BehaviorTree.CPP library to coordinate perception, planning, and control nodes, improving modularity and runtime adaptability in RAS-ROS2. | xArm (UFactory), ROS 2, BehaviorTree.CPP, C++, Python, RViz |
 | **Aruco based Grid System (Tic Tac Toe)** | AI-driven vision module using ArUco markers to detect and map a Tic Tac Toe board, enabling the robot to perceive moves, plan responses, and play in real time. | xArm (UFactory), Franka Emika, OpenCV, ArUco, Python, ROS 2, CUDA, PyTorch, 3D printing and modeling |
@@ -82,9 +83,9 @@ I'm an **AI Robotics** practitioner. My day-to-day work revolves around expandin
 
 **Databases**
 
-| <img title="MongoDB" alt="MongoDB" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
-|--|
-| MongoDB |
+| <img title="MongoDB" alt="MongoDB" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="DuckDB" alt="DuckDB" width="40" src="https://raw.githubusercontent.com/duckdb/duckdb/main/logo/DuckDB_Logo-horizontal-dark-mode.svg"> |
+|--|--|
+| MongoDB | DuckDB |
 
 **Tools**
 
@@ -100,8 +101,30 @@ I'm an **AI Robotics** practitioner. My day-to-day work revolves around expandin
 
 **Embedded & Wireless**
 
-| nRF5340 | Zephyr RTOS | nRF Connect SDK | BLE | BLE Audio (LC3) | DMIC / I2S |
+| <img title="nRF Connect SDK" alt="nRF Connect SDK" width="60" src="https://cdn.zoominsoftware.io/nordic/public/assets/img/nordic-logo.svg"> | <img title="zephyr" alt="zephyr" width="60" src="https://raw.githubusercontent.com/zephyrproject-rtos/zephyr/main/doc/_static/images/logo-readme-dark.svg"> | <img title="nRF Connect SDK" alt="nRF Connect SDK" width="60" src="https://www.bluetooth.com/wp-content/uploads/Sitecore-Media-Library/2018/logo-full-white.png"> | <img title="nRF Connect SDK" alt="nRF Connect SDK" width="60" src="https://cdn.zoominsoftware.io/nordic/public/assets/img/nordic-logo.svg"> | <img title="nRF Connect SDK" alt="nRF Connect SDK" width="60" src="https://www.bluetooth.com/wp-content/uploads/Sitecore-Media-Library/2018/logo-full-white.png"> | <img title="nRF Connect SDK" alt="nRF Connect SDK" width="60" src="https://cdn.zoominsoftware.io/nordic/public/assets/img/nordic-logo.svg"> |
 |--|--|--|--|--|--|
+| nRF5340 | Zephyr RTOS | BLE | nRF Connect SDK | BLE Audio (LC3) | DMIC / I2S |
+
+**Segmentation Models**
+
+| Unet | Unet++ | FPN | PSPNet |
+|--|--|--|--|
+| DeepLabV3 | DeepLabV3+ | Linknet | MAnet |
+| PAN | UPerNet | Segformer | DPT |
+
+**Encoders (Backbones)**
+
+| Mix Vision Transformer (MiT) | MobileOne | MobileNet | EfficientNet |
+|--|--|--|--|
+| ResNet | ResNeXt | SENet | DPN |
+| VGG | DenseNet | Xception | Inception |
+
+**Optimization & Evaluation**
+
+| AMP (mixed precision) | Cosine LR | Dice + BCE losses |
+|--|--|--|
+| IoU / F1 / Precision / Recall | Early-stopping | Checkpointing |
+
 ---
 
 ## Some of my stats :bar_chart:
